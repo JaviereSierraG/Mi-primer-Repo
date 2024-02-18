@@ -17,6 +17,10 @@ La primera herramienta que utilizaremos será bloc de notas para consignar y alm
 
 ![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_notes.png?raw=true)
 
+Ejecuto el bloc de notas desde el terminal.
+
+![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_simbol.png?raw=true)
+
 Ahora lo ejecutaremos en un interprete, en este caso elegi colab.
 
 ![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/Captura%20de%20pantalla%202024-02-18%20002906.png?raw=true)
