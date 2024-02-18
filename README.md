@@ -14,5 +14,6 @@ if __name__ == "__main__":
 
 La primera herramienta que utilizaremos será bloc de notas para consignar y almacenar el código para los siguientes pasos.
 
-![Gato lindo](https://github.com/tu_usuario/tu_repositorio/raw/main/sc_notes.jpg)
+![Gato lindo](https://github.com/JaviereSierraG
+/Mi-primer-Repo/raw/main/sc_notes.jpg)
 
