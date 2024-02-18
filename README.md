@@ -13,4 +13,5 @@ if __name__ == "__main__":
     print("Hola mundo")
 
 La primera herramienta que utilizaremos será bloc de notas para consignar y almacenar el código para los siguientes pasos.
+
 [![sc_notes.png](https://i.postimg.cc/Gmk8yxhJ/sc_notes.png)](https://postimg.cc/68ppsRZy).
