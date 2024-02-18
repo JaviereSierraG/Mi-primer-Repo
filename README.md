@@ -17,5 +17,5 @@ La primera herramienta que utilizaremos será bloc de notas para consignar y alm
 
 ![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_notes.png?raw=true)
 
-![Gato lindo](https://github.com/JaviereSierraG/Mi-primer-Repo/raw/main/sc_notes.jpg)
+
 
