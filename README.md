@@ -11,11 +11,11 @@ El código utilizado es el siguiente:
 ```python
 if __name__ == "__main__":
     print("Hola mundo")
+```
 
 La primera herramienta que utilizaremos será bloc de notas para consignar y almacenar el código para los siguientes pasos.
 
 ![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_notes.png?raw=true)
-
 
 ![Gato lindo](https://github.com/JaviereSierraG/Mi-primer-Repo/raw/main/sc_notes.jpg)
 
