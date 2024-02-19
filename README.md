@@ -23,6 +23,6 @@ Ejecuto el bloc de notas desde el terminal.
 
 Ahora lo ejecutaremos en un interprete, en este caso elegi colab.
 
-![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/Captura%20de%20pantalla%202024-02-18%20002906.png?raw=true)
+![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_colab.png?raw=true)
 
 
