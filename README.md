@@ -25,4 +25,6 @@ Ahora lo ejecutaremos en un interprete, en este caso elegi colab.
 
 ![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_colab.png?raw=true)
 
+Para terminar lo ejecute en visual studio. 
 
+![Texto alternativo](https://github.com/JaviereSierraG/Mi-primer-Repo/blob/main/sc_vs.png?raw=true)
